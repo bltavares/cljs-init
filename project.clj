@@ -1,6 +1,6 @@
 (defproject cljs-init/lein-template "0.1.0-SNAPSHOT"
   :description "Created with lein-create-template"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/bltavares/cljs-init"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :eval-in-leiningen true)
